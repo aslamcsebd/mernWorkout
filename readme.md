@@ -12,3 +12,4 @@
     Patch:  $url/api/workouts/1010
 	```
 - [MongoDB Atlas & Mongoose](https://www.youtube.com/watch?v=s0anSjEeua8&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=6&ab_channel=NetNinja)
+- [Models & Schemas](https://www.youtube.com/watch?v=O8IipcpTmYU&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=7&ab_channel=NetNinja)
