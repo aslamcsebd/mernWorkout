@@ -4,3 +4,5 @@
 - npm install dotenv
 
 - Terminate batch job (Y/N)? off it? [Press Ctrl+C twice.]
+
+- npm install mongoose [For database]
