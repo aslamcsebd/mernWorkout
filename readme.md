@@ -15,3 +15,14 @@
 - [Models & Schemas](https://www.youtube.com/watch?v=O8IipcpTmYU&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=7&ab_channel=NetNinja)
 - [Controllers (part 1)[getAll, getSingle, create]](https://www.youtube.com/watch?v=oEHHjs1UVXQ&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=7&ab_channel=NetNinja)
 - [Controllers (part 2)[delete, update]](https://www.youtube.com/watch?v=MwiyQsWSlc0&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=7&ab_channel=NetNinja)
+
+
+### [frontend-React setup](https://www.youtube.com/watch?v=bx4nk7kBS10&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=11&ab_channel=NetNinja)
+
+- npm create vite@latest
+- npm install
+- npm run dev
+
+- npm install react-router-dom
+- npm install bootstrap
+- import 'bootstrap/dist/css/bootstrap.css' [main.jsx];
