@@ -3,7 +3,6 @@
 - [Express app setup](https://www.youtube.com/watch?v=8DploTqLstE&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=2&ab_channel=NetNinja)
 - [Express Router & API Routes](https://www.youtube.com/watch?v=Ll6knx7sFis&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=3&ab_channel=NetNinja)
 - Postman api url
-
     ```
     $url = localhost:4000
     Get:    $url/api/workouts/
@@ -19,10 +18,14 @@
 
 ### [frontend-React setup](https://www.youtube.com/watch?v=bx4nk7kBS10&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=11&ab_channel=NetNinja)
 
-- npm create vite@latest
-- npm install
-- npm run dev
+    ```
+    npm create vite@latest
+    npm install
+    npm run dev
 
-- npm install react-router-dom
-- npm install bootstrap
-- import 'bootstrap/dist/css/bootstrap.css' [main.jsx];
+    npm install react-router-dom
+    npm install bootstrap
+    import 'bootstrap/dist/css/bootstrap.css' [main.jsx];
+    ```
+
+- [Fetching Data](https://www.youtube.com/watch?v=MEab_a19ZGk&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=9&ab_channel=NetNinja)

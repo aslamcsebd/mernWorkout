@@ -1,0 +1,14 @@
+body{ background-color: whitesmoke; }         
+
+.navbar { background-color: gainsboro; }
+.navbar a{ text-decoration: none; }
+
+.workout-details{
+    border: 1px dashed blue;
+    border-radius: 5px;
+    padding: 5px 8px;
+    margin: 8px;
+}
+.workout-details p{
+    margin-bottom: 0rem !important;
+}

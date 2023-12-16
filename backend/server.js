@@ -15,6 +15,8 @@ app.use((req, res, next) => {
 })
 
 // routes
+var cors = require('cors');
+app.use(cors())
 app.use('/api/workouts', workoutRouters)
 
 // connect to db

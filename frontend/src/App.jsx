@@ -10,7 +10,7 @@ export default function App() {
             <div className="pages">
                 <Routes>
                     <Route path='/' element={ <Home /> } />
-    2           </Routes>
+                </Routes>
             </div>
         </BrowserRouter>
     </div>
