@@ -17,7 +17,8 @@
 
 
 ### [frontend-React setup](https://www.youtube.com/watch?v=bx4nk7kBS10&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=11&ab_channel=NetNinja)
-
+    
+- Setup command
     ```
     npm create vite@latest
     npm install
@@ -25,7 +26,8 @@
 
     npm install react-router-dom
     npm install bootstrap
-    import 'bootstrap/dist/css/bootstrap.css' [main.jsx];
+    import 'bootstrap/dist/css/bootstrap.css' [main.jsx]
     ```
 
 - [Fetching Data](https://www.youtube.com/watch?v=MEab_a19ZGk&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=9&ab_channel=NetNinja)
+- [New Workout Form](https://www.youtube.com/watch?v=tRmeik-IpUQ&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=11&ab_channel=NetNinja)

@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import WorkoutDetails from '../components/WorkoutDetails';
+import WorkoutForm from '../components/WorkoutForm';
 
 export default function home() {
     const url = 'http://localhost:4000';
@@ -22,10 +23,15 @@ export default function home() {
 
     return (
         <div className="home">
-            <div className="workouts">
-                {workouts && workouts.map((workout) => (
-                    <WorkoutDetails key={workout._id} workout={workout} />
-                ))}
+            <div className="workouts row m-0">
+                <div className="col-8">
+                    {workouts && workouts.map((workout) => (
+                        <WorkoutDetails key={workout._id} workout={workout} />
+                    ))}
+                </div>
+                <div className="col-4">
+                    <WorkoutForm />
+                </div>
             </div>
         </div>
     );
