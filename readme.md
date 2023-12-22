@@ -31,3 +31,12 @@
 
 - [Fetching Data](https://www.youtube.com/watch?v=MEab_a19ZGk&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=9&ab_channel=NetNinja)
 - [New Workout Form](https://www.youtube.com/watch?v=tRmeik-IpUQ&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=11&ab_channel=NetNinja)
+- [Adding React Context](https://www.youtube.com/watch?v=NKsVV7wJcDM&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&ab_channel=NetNinja)
+    ```
+    Workflow bellow
+    context/WorkoutsContext
+    hooks/useWorkoutsContext
+    main.jsx
+    Home.jsx
+    WorkoutForm.jsx
+    ```
