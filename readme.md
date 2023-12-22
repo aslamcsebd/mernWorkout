@@ -33,10 +33,16 @@
 - [New Workout Form](https://www.youtube.com/watch?v=tRmeik-IpUQ&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=11&ab_channel=NetNinja)
 - [Adding React Context](https://www.youtube.com/watch?v=NKsVV7wJcDM&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&ab_channel=NetNinja)
     ```
-    Workflow bellow
+    Workflow below
     context/WorkoutsContext
     hooks/useWorkoutsContext
     main.jsx
     Home.jsx
     WorkoutForm.jsx
+    ```
+- [Deleting Data](https://www.youtube.com/watch?v=TcWmmJUG5K4&ab_channel=NetNinja)
+    ```
+    Workflow below
+    WorkoutDetails.jsx
+    context/WorkoutsContext
     ```
